@@ -8,8 +8,8 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Wat3rfy/Obsidian"
 
-# LANDING_PAGE = "Analiza"
-# LANDING_BUTTON = ""
+LANDING_PAGE = "Analiza"
+LANDING_BUTTON = ""
 LANDING_TITLE = ""
 SITE_TITLE = "Notes"
 
