@@ -1,0 +1,2 @@
+>[!|dokaz]- Dokaz:
+>
